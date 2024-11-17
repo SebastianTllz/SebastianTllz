@@ -1,5 +1,11 @@
-<h1 align="center">Hi , I'm Sebastián Téllez <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGowdWdncng3cHI5bmViam1peDdpbTFoMGV4a2htcGVlazRncDJmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcpFUnxQ4F8tYSuE8u/giphy.gif" width="100">
-<p align="center">
+<p align="center" style="display: flex; justify-content: center;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF0d2s0a2cydGxlMHFoNGU1Z2ttd3hmYWYwNDA2ejgzcTgyMXJqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/axbcxcNThrlte/giphy.gif" width="5%" style="margin: 0;" />
+    <a href="https://git.io/typing-svg">
+        <img <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&pause=1500&color=A60606&width=435&lines=Hi%2C+I'm+Sebasti%C3%A1n++Guzm%C3%A1n" 
+            alt="Typing SVG" style="margin: 0;" />
+    </a>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGowdWdncng3cHI5bmViam1peDdpbTFoMGV4a2htcGVlazRncDJmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcpFUnxQ4F8tYSuE8u/giphy.gif" width="5%" style="margin: 0;" />
+</p>
 
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lavishly+Yours&size=35&pause=1500&color=731EA6&width=435&lines=Mechatronics+Engineer;Faculty+of+Engineering-UNAM" alt="Typing SVG" /></a>
@@ -11,12 +17,12 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Engineering]((https://www.ingenieria.unam.mx)) 
+- :school: I am a `Student` at [Faculty of Engineering]((https://www.ingenieria.unam.mx)) 
 - :student: I’m currently learning `Robotics` and `Artificial Intelligence`.
 - :nerd_face: Always `learning new things`.
-
-
-
+- :robot: SIAFI's `new` member (Artifitial Inteligence Society)
+- :mexico: Living in Mexico City
+- :smiley: Member of "Taller de Robótica Abierta" 
 
 
 ## 🛠️ My Skills
@@ -49,8 +55,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
   &emsp;
-    <a href="#"><img alt="ROS" src="(https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"></a>
-  &emsp;
       <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
  
@@ -80,129 +84,49 @@
 
 <br> 
 
----
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+
+## <p align="center">:sparkles: Some stats :sparkles:</p>
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianTllz&langs_count=6&theme=react&layout=donut-vertical" width="30%" />
+  </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SebastianTllz&show_icons=true&theme=react&rank_icon=github" width="60%" />
+  </a>
+</p>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+ <br> 
 
-----	
+<br> 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+## <p align="center"> Current technologies that I'm learning 👾 </p>
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,opencv,ros,raspberrypi,tensorflow,unity" width="700"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,latex,java,js,html,blender" width="700"/>
+  </a>
+</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
+## 	<p align="center"> Thanks you... :smile: </p>
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+<p align = "center">
+  <img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif?cid=ecf05e475qmlpmgat2bmrf0i0j0qe13idxtnmfqvi6d31c25&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="460" height="360"  />
+</p> 
+<p align = "center">
+	<img alt="Visitor Count" src="https://profile-counter.glitch.me/{SebastianTllz}/count.svg">
+</p> 
 
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
