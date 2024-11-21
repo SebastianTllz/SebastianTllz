@@ -117,7 +117,7 @@
   </a>
 </p>
 
-## 	<p align="center"> Thanks you... :smile: </p>
+## 	<p align="center"> Thank you... :smile: </p>
 	
 <p align = "center">
   <img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif?cid=ecf05e475qmlpmgat2bmrf0i0j0qe13idxtnmfqvi6d31c25&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="460" height="360"  />
